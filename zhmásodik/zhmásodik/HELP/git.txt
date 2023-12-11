@@ -1,0 +1,31 @@
+﻿git  // kíírja a git-es parancsokat
+
+git init // az adott mappából egy git reppositoryt csinál
+
+git status // az adott mappát megnézi hogy git repopository-e és kiirja az állapotát
+
+git add teszt.txt // a teszt.txt-t felteszi a "szinpadra" (ez még nem e helyi repo!!) 
+
+git commi -m "üzenet része"  // Beletesszük a HELYI REPO-ba amiket add-oltunk, -m -> üzenet miatt kell
+
+git log // kinaplozza hogy miketet commitoltunk tehát mi van a helyi repoba
+
+git ls-file  // a helyi repo tartalma (pontosabban amiket nyomonkövet)
+
+git remote add origin "és a link" // a helyi repohoz hozzá rendeljük a távoli szervert (Az origin az csak egy alias,
+					tehát ezzel a kulcssszóval tudunk rá hivatkozni mikor pusholunk)
+
+git push origin master // vagy az a név amit fent megadtál
+
+git config --global user.email "email címed"
+git config --global user.name "neved"
+
+git pull origin master --allow-unrelated-histories  // leszedjük a távoli repo tartalmát a gépünkre
+
+git push origin master // master = fő brunch
+
+git clone "link" // önmagától létrehoz egy HELYI REPOT a gépemen
+
+git pull origin master // távoli repo tartalmát letölti a helyi repoba
+
+git clone -b LAB02 https://github.com/felhasznalonev/repositorynev.git    AZ ADOTT ÁGAT KLÓNOZZA!!!!

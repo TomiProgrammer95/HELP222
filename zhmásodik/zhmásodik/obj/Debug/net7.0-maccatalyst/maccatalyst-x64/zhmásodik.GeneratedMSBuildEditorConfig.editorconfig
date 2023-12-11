@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = zhmásodik
+build_property.ProjectDir = C:\Users\sttam\Desktop\VEDETT2\zhmásodik\zhmásodik\
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/HELP/CheckBox.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.HELP.CheckBox.xaml
+build_metadata.AdditionalFiles.TargetPath = HELP\CheckBox.xaml
+build_metadata.AdditionalFiles.RelativePath = HELP\CheckBox.xaml
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/HELP/Entry.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.HELP.Entry.xaml
+build_metadata.AdditionalFiles.TargetPath = HELP\Entry.xaml
+build_metadata.AdditionalFiles.RelativePath = HELP\Entry.xaml
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/HELP/Image.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.HELP.Image.xaml
+build_metadata.AdditionalFiles.TargetPath = HELP\Image.xaml
+build_metadata.AdditionalFiles.RelativePath = HELP\Image.xaml
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/HELP/Picker.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.HELP.Picker.xaml
+build_metadata.AdditionalFiles.TargetPath = HELP\Picker.xaml
+build_metadata.AdditionalFiles.RelativePath = HELP\Picker.xaml
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/HELP/Slider.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.HELP.Slider.xaml
+build_metadata.AdditionalFiles.TargetPath = HELP\Slider.xaml
+build_metadata.AdditionalFiles.RelativePath = HELP\Slider.xaml
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/HELP/Tapped.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.HELP.Tapped.xaml
+build_metadata.AdditionalFiles.TargetPath = HELP\Tapped.xaml
+build_metadata.AdditionalFiles.RelativePath = HELP\Tapped.xaml
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/sttam/Desktop/VEDETT2/zhmásodik/zhmásodik/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = zhmásodik.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
